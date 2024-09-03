@@ -17,3 +17,7 @@ Will probably change the package manager at a later date.
 - [vim-surround](https://github.com/tpope/vim-surround)
 - [workspaces.nvim](https://github.com/tpope/vim-surround)
 - [Comment.nvim](https://github.com/numToStr/Comment.nvim)
+
+## Theme
+
+The theme is [gruvbox](https://github.com/ellisonleao/gruvbox.nvim).
