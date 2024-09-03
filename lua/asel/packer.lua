@@ -21,4 +21,11 @@ return require('packer').startup(function(use)
   use({'hrsh7th/nvim-cmp'})
   use({'hrsh7th/cmp-nvim-lsp'})
   use({'tpope/vim-surround'})
+  use({'natecraddock/workspaces.nvim'})
+  use {
+	  'numToStr/Comment.nvim',
+	  config = function()
+		  require('Comment').setup()
+	  end
+  }
   end)
