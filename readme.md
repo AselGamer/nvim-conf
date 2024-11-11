@@ -22,6 +22,7 @@ Will probably change the package manager at a later date.
 - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
 - [lualine-time](https://github.com/archibate/lualine-time)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
+- [targets.vim](https://github.com/wellle/targets.vim)
 
 ## Theme
 
