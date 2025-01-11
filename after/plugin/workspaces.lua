@@ -1,3 +1,3 @@
-local workspaces = require('workspaces');
+--[[ local workspaces = require('workspaces');
 workspaces.setup();
-vim.keymap.set('n', '<leader>pw', workspaces.open);
+vim.keymap.set('n', '<leader>pw', workspaces.open); ]]
