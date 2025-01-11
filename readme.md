@@ -15,7 +15,7 @@ Will probably change the package manager at a later date.
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp)
 - [vim-surround](https://github.com/tpope/vim-surround)
-- [workspaces.nvim](https://github.com/tpope/vim-surround)
+- [project.nvim](https://github.com/ahmedkhalf/project.nvim)
 - [Comment.nvim](https://github.com/numToStr/Comment.nvim)
 - [nvim-autopairs](https://github.com/windwp/nvim-autopairs)
 - [nvim-ts-autotag](https://github.com/nvim-ts-autotag)
@@ -23,6 +23,8 @@ Will probably change the package manager at a later date.
 - [lualine-time](https://github.com/archibate/lualine-time)
 - [nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons)
 - [targets.vim](https://github.com/wellle/targets.vim)
+- [barbar.nvim](https://github.com/romgrk/barbar.nvim)
+- [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
 
 ## Theme
 

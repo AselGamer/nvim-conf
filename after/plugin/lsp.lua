@@ -28,7 +28,8 @@ require('lspconfig').clangd.setup({})
 require('lspconfig').intelephense.setup({})
 require('lspconfig').gdscript.setup({})
 require('lspconfig').tsserver.setup({})
-require('lspconfig').jdtls.setup({})
+require('lspconfig').dartls.setup({})
+-- require('lspconfig').jdtls.setup({})
 ---
 -- Autocompletion setup
 ---
