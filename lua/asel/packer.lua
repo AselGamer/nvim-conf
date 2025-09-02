@@ -56,5 +56,17 @@ return require('packer').startup(function(use)
 		 },
       }
     end
-  }
+  };
+use {
+    "danymat/neogen",
+    config = function()
+        require('neogen').setup({})
+    end,
+    -- Uncomment next line if you want to follow only stable versions
+    -- tag = "*"
+};
+use {
+  "nosduco/remote-sshfs.nvim",
+  requires = { {'nvim-telescope/telescope.nvim', 'nvim-lua/plenary.nvim'} }
+};
   end)
