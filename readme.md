@@ -25,6 +25,8 @@ Will probably change the package manager at a later date.
 - [targets.vim](https://github.com/wellle/targets.vim)
 - [barbar.nvim](https://github.com/romgrk/barbar.nvim)
 - [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
+- [neogen](https://github.com/danymat/neogen)
+- [remotesshfs](nosduco/remote-sshfs.nvim)
 
 ## Theme
 
